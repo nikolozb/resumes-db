@@ -1,0 +1,12 @@
+{
+  "placeholders": [
+    "Name",
+    "Address",
+    "Email",
+    "Number",
+    "Education",
+    "Experience",
+    "Skills",
+    "Professional Summary"
+  ]
+}
